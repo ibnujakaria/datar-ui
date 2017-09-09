@@ -1,5 +1,5 @@
 {
-    "name": "ibnujakaria/data-ui",
+    "name": "ibnujakaria/datar-ui",
     "description": "Theme for Canvas.",
     "keywords": ["canvas", "theme"],
     "type": "canvas-theme",
@@ -12,7 +12,7 @@
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Data-URI",
+            "title": "Datar-URI",
             "directories": {
                 "public": "public"
             }
