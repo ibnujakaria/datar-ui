@@ -1,0 +1,24 @@
+{
+    "name": "ibnujakaria/data-ui",
+    "description": "Theme for Canvas.",
+    "keywords": ["canvas", "theme"],
+    "type": "canvas-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibnu Jakaria",
+            "email": "ibnujakaria@outlook.com"
+        }
+    ],
+    "extra": {
+        "canvas-theme": {
+            "title": "Data-URI",
+            "directories": {
+                "public": "public"
+            }
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    }
+}
