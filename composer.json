@@ -12,7 +12,7 @@
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Datar-URI",
+            "title": "Datar UI",
             "directories": {
                 "public": "public"
             }
