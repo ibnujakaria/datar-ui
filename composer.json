@@ -17,8 +17,5 @@
                 "public": "public"
             }
         }
-    },
-    "require": {
-        "php": "^7.0"
     }
 }
