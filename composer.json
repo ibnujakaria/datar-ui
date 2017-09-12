@@ -14,7 +14,8 @@
         "canvas-theme": {
             "title": "Datar UI",
             "directories": {
-                "public": "public"
+                "public": "public",
+                "views": "resources/views"
             }
         }
     }
